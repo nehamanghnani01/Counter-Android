@@ -1,4 +1,4 @@
-package com.example.flowpractice.ui.theme
+package com.example.flowpractice
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.delay
